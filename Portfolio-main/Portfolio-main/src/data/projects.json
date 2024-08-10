@@ -1,0 +1,26 @@
+[{
+    "title": "Currency Converter",
+    "imageSrc": "projects/currency.png",
+    "description":"Implemented API integration for up-to-date exchange rates,designed a user-friendly interface,and ensured cross-browser compatibility.",
+    "skills": ["ReactJs", "JavaScript", "Tailwind"],
+    "demo": "https://currency-convertor-phi-umber.vercel.app/",
+    "source": "https://github.com/tarunsahu15/currency-convertor"
+},
+
+  {
+      "title": "Shopify Clone Development",
+      "imageSrc": "projects/shopifyc.png",
+      "description": "Built a Shopify clone using React replicating key features of the popular e-commerce platform.",
+      "skills": ["ReactJs", "JavaScript", "Tailwind"],
+      "demo": "https://shopify-swart-ten.vercel.app/",
+      "source": "https://github.com/tarunsahu15/shopify"
+  },
+  {
+      "title": "Responsive Website Development",
+      "imageSrc": "projects/sidcupfa.png",
+      "description": "Developed a fully responsive website using HTML, CSS, and JavaScript. ",
+      "skills": ["HTML", "CSS", "JavaScript","Gsap"],
+      "demo": "https://sidcup-family-ruby.vercel.app/",
+      "source": "https://github.com/tarunsahu15/sidcup-family"
+  }
+]
